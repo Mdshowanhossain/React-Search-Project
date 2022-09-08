@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-container {
+  margin: 0 auto;
+  /* height: 100vh; */
+  width: 70rem;
+
+  /* background-color: red; */
+}
